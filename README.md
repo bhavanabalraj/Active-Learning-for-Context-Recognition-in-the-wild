@@ -1,4 +1,4 @@
-# Active-Learning-for-Context-Recognition-in-the-wild
+# Active Learning for Context Recognition in-the-wild
 
 Abstract
 
