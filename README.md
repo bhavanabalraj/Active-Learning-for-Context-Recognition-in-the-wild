@@ -1,4 +1,4 @@
-# Active Learning for Context Recognition in-the-wild
+# Multilabel Active Learning for Context Recognition In the Wild
 
 Abstract
 
